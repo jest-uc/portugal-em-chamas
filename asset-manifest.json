@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portugal-em-chamas/static/css/main.f8fc7053.chunk.css",
+    "main.js": "/portugal-em-chamas/static/js/main.33f9cfa8.chunk.js",
+    "main.js.map": "/portugal-em-chamas/static/js/main.33f9cfa8.chunk.js.map",
+    "runtime-main.js": "/portugal-em-chamas/static/js/runtime-main.66da8fdc.js",
+    "runtime-main.js.map": "/portugal-em-chamas/static/js/runtime-main.66da8fdc.js.map",
+    "static/css/2.b4ebbe46.chunk.css": "/portugal-em-chamas/static/css/2.b4ebbe46.chunk.css",
+    "static/js/2.0e8b5024.chunk.js": "/portugal-em-chamas/static/js/2.0e8b5024.chunk.js",
+    "static/js/2.0e8b5024.chunk.js.map": "/portugal-em-chamas/static/js/2.0e8b5024.chunk.js.map",
+    "index.html": "/portugal-em-chamas/index.html",
+    "static/css/2.b4ebbe46.chunk.css.map": "/portugal-em-chamas/static/css/2.b4ebbe46.chunk.css.map",
+    "static/css/main.f8fc7053.chunk.css.map": "/portugal-em-chamas/static/css/main.f8fc7053.chunk.css.map",
+    "static/js/2.0e8b5024.chunk.js.LICENSE.txt": "/portugal-em-chamas/static/js/2.0e8b5024.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66da8fdc.js",
+    "static/css/2.b4ebbe46.chunk.css",
+    "static/js/2.0e8b5024.chunk.js",
+    "static/css/main.f8fc7053.chunk.css",
+    "static/js/main.33f9cfa8.chunk.js"
+  ]
+}
