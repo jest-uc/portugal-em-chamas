@@ -28,6 +28,6 @@ Initially, two applications will be developed in parallel, ["Brasil em Chamas"](
 Map with visualization of burned areas in Portugal.
 
 
-## Contact
+<!-- ## Contact
 
-emailprojeto@email.com
+emailprojeto@email.com -->
