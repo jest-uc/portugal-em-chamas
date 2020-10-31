@@ -1,6 +1,6 @@
 # Project "Portugal em Chamas"
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE.md) [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/) 
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/) 
 
 ## Context
 Concerned about the destruction of the recent burnings in the Pantanal (Brazil), Vinicius Cleves, a member of the Grupo Touring (GT) of the University of São Paulo, created an interactive visualization of the problem: ["Brasil em Chamas"](https://vinicius-cleves.github.io/brasil-em-chamas/).
