@@ -19,7 +19,7 @@ Adjust the visualization developed for the Portuguese context, as well as develo
 ## Workflow
 
 Initially, two applications will be developed in parallel, ["Brasil em Chamas"](https://github.com/vinicius-cleves/brasil-em-chamas/) and
-["Portugal em Chamas"](https://github.com/vinicius-cleves/portugal-em-chamas/).
+["Portugal em Chamas"](https://github.com/tamagusko/portugal-em-chamas/).
 
 ## Team
 
