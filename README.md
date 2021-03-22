@@ -4,13 +4,13 @@
 
 ## Context
 
-Concerned about the destruction of the recent burnings in the Pantanal (Brazil), Vinicius Cleves, a member of the [Grupo Turing](https://github.com/GrupoTuring) of the University of São Paulo, created an interactive visualization of the problem: ["Brasil em Chamas"](https://vinicius-cleves.github.io/brasil-em-chamas/).
+Concerned about the destruction of the recent wild fires in the Pantanal (Brazil), Vinicius Cleves, a member of the [Grupo Turing](https://github.com/GrupoTuring) of the University of São Paulo, created an interactive visualization of the problem: ["Brasil em Chamas"](https://vinicius-cleves.github.io/brasil-em-chamas/).
 
 Starting from the perception that this is also a problem in Portugal, the Junior Enterprise for Science and Technology (JEST) of the University of Coimbra proposed to develop this idea for Portugal. This initiative was accepted, thus creating an intercontinental partnership between the members of these two groups
 
 ## About
 
-Go to the [website](https://vinicius-cleves.github.io/portugal-em-chamas/) to navegate on the map.
+Go to the [website](https://tamagusko.github.io/portugal-em-chamas/) to navegate on the map.
 
 ## Objective
 
@@ -23,10 +23,10 @@ Initially, two applications will be developed in parallel, ["Brasil em Chamas"](
 
 ## Team
 
-* [Vinicius Cleves](https://github.com/vinicius-cleves/) (Grupo Turing)
-* [Tiago Tamagusko](https://github.com/tamagusko) (JEST)
-* José Dias
-* Avram Gincu (JEST)
+* Avram Gincu - UX and UI designer (JEST)
+* Rafael Molder - Developer
+* [Tiago Tamagusko](https://github.com/tamagusko) - Project Manager (JEST)
+* Vasco Santos - Main Developer
 
 ## Result
 
