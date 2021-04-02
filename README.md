@@ -10,7 +10,7 @@ Starting from the perception that this is also a problem in Portugal, the Junior
 
 ## About
 
-Go to the [website](https://tamagusko.github.io/portugal-em-chamas/) to navegate on the map.
+Go to the [website](https://jest-uc.github.io/portugal-em-chamas/) to navegate on the map.
 
 ## Objective
 
@@ -19,7 +19,7 @@ Adjust the visualization developed for the Portuguese context, as well as develo
 ## Workflow
 
 Initially, two applications will be developed in parallel, ["Brasil em Chamas"](https://github.com/vinicius-cleves/brasil-em-chamas/) and
-["Portugal em Chamas"](https://github.com/tamagusko/portugal-em-chamas/).
+["Portugal em Chamas"](https://jest-uc.github.io/portugal-em-chamas/).
 
 ## Core Team
 
