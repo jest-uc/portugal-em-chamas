@@ -12,15 +12,6 @@ Starting from the perception that this is also a problem in Portugal, the Junior
 
 Go to the [website](https://jest-uc.github.io/portugal-em-chamas/) to navegate on the map.
 
-## Objective
-
-Adjust the visualization developed for the Portuguese context, as well as developing some functionalities that can aggregate the two initiatives, this project received the name "Portugal em Chamas".
-
-## Workflow
-
-Initially, two applications will be developed in parallel, ["Brasil em Chamas"](https://github.com/vinicius-cleves/brasil-em-chamas/) and
-["Portugal em Chamas"](https://jest-uc.github.io/portugal-em-chamas/).
-
 ## Core Team
 
 * Avram Gincu - UX and UI designer (JEST)
@@ -28,10 +19,6 @@ Initially, two applications will be developed in parallel, ["Brasil em Chamas"](
 * [Tiago Tamagusko](https://github.com/tamagusko) - Project Manager (JEST)
 * Vasco Santos - Main Developer (JEST)
 
-## Result
+## Would you like to help the project?
 
-Map with visualization of burned areas in Portugal.
-
-<!-- ## Contact
-
-emailprojeto@email.com -->
+You can send [issues](https://github.com/jest-uc/portugal-em-chamas/issues) or [pull requests](https://github.com/jest-uc/portugal-em-chamas/pulls). You can also contact us by email geral@jest.pt.
