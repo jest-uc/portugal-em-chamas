@@ -24,9 +24,9 @@ Initially, two applications will be developed in parallel, ["Brasil em Chamas"](
 ## Core Team
 
 * Avram Gincu - UX and UI designer (JEST)
-* Rafael Molder - Developer
+* Rafael Molder - Developer (JEST)
 * [Tiago Tamagusko](https://github.com/tamagusko) - Project Manager (JEST)
-* Vasco Santos - Main Developer
+* Vasco Santos - Main Developer (JEST)
 
 ## Result
 
