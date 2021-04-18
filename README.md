@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/jest-uc/img/main/src/head.png)
+
 # Project "Portugal em Chamas" 🔥
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
