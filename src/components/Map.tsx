@@ -438,7 +438,7 @@ export default class MyMap extends Component<{}, State> {
     
     const point_city = cities.point2region(lng, lat)
     if (point_city){
-      const painted_cities = fill_area(cities, point_city, 100) 
+      const painted_cities = fill_area(cities, point_city, 23000) 
 
       this.setState({painted_cities}, ()=>{
         //TODO: zoom on bound box of the painted region, not on the selected point
