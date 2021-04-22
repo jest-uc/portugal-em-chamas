@@ -65,7 +65,7 @@ function point_in_polygon(point:[number, number], vs: Position[]) {
 };
 
 function area(coords:Position[], interior:boolean){
-  return Topojson.sphericalRingArea(coords as Array<[number, number]>, interior) * 100**2
+  return Topojson.sphericalRingArea(coords as Array<[number, number]>, interior) * 6371**2
 }
 
 function fill_area(
